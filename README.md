@@ -19,4 +19,8 @@ crimes can be anywhere
     - drawing conclusions 
     - using distplot to know the distribution.
     - using pairdist to pair up data with other data.
+
+## Functions of pandas
+1. .loc[]- will have index as arguement
+2. .iloc[]- will give the element at the position(put in as arguement) in the table.[starts from 0] we can also do index slicing. 
     
